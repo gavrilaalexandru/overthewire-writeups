@@ -10,21 +10,11 @@ PS: Create a dedicated file for notes and passwords on your local machine!
 - **Username:** `bandit0`  
 - **Password:** `bandit0`  
 
+After we ssh into the server we can use the ls command ([list](https://en.wikipedia.org/wiki/Ls)) to list all the files in our current directory.
+<img width="570" alt="Screenshot 2025-03-26 at 00 15 42" src="https://github.com/user-attachments/assets/a123d456-4f54-4979-b488-c543806ac1d8" />
+So we can see that the only available file is an auto-suggestive readme file.
+Let's use the cat command ([cat](https://en.wikipedia.org/wiki/Cat_(Unix))) to see what that file contains.
+<img width="565" alt="Screenshot 2025-03-26 at 00 17 35" src="https://github.com/user-attachments/assets/35eb65c4-1b73-4654-88a0-90dfbaead388" />
+And like that we made our first steps into the bandit game!
 
-
-Here’s the command you need to use:  
-
-```sh
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-```
-
-### Command Breakdown
-> ssh – The command used to initiate a secure shell connection
-
-> bandit0@hostname – Specifies the user (bandit0) and the host (bandit.labs.overthewire.org)
-
-> -p 2220 – Specifies the port number to use for this connection
-
-Once you press Enter, you will be prompted to enter the password (bandit0).
-
-All done for now, let's jump into the next level!
+**New_Password: ** `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
