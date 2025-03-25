@@ -1,10 +1,32 @@
 # Bandit Wargame - Level 0  
 
-This is the introduction to the **Bandit** wargame, aimed at absolute beginners.  
-It will teach you the basics needed to play other wargames.  
+Welcome to the **Bandit** wargame! This challenge is aimed at absolute beginners and it will teach you the basics needed to play other wargames. 
 
-> **PS:** Before starting and SSH-ing into their servers, take a look at:  
+> **Before you begin:**  
+> Before connecting via SSH, check out:  
 > - [WeChall Scoreboard](https://overthewire.org/information/wechall.html)  
 > - [WeChall.net](https://wechall.net/)  
 
-The goal of this level is to log into the game using SSH ([secure shell](https://en.wikipedia.org/wiki/Secure_Shell))
+### Objective  
+Your goal in this level is to log into the game server using SSH ([Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)).  
+
+**Server Details:**  
+- **Host:** `bandit.labs.overthewire.org`  
+- **Port:** `2220`  
+- **Username:** `bandit0`  
+- **Password:** `bandit0`  
+
+Here’s the command you need to use:  
+
+```sh
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+
+Command Breakdown
+ssh – The command used to initiate a secure shell connection
+
+bandit0@hostname – Specifies the user (bandit0) and the host (bandit.labs.overthewire.org)
+
+-p 2220 – Specifies the port number to use for this connection
+
+Once you press Enter, you will be prompted to enter the password (bandit0).
