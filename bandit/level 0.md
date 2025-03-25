@@ -27,7 +27,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 > bandit0@hostname – Specifies the user (bandit0) and the host (bandit.labs.overthewire.org)
 
--p 2220 – Specifies the port number to use for this connection
+> -p 2220 – Specifies the port number to use for this connection
 
 Once you press Enter, you will be prompted to enter the password (bandit0).
+
 All done for now, let's jump into the next level!
