@@ -21,4 +21,4 @@ Let's use the cat command ([cat](https://en.wikipedia.org/wiki/Cat_(Unix))) to e
 
 And like that we made our first steps into the bandit game!
 
-**New_Password: ** `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+**New Password:** `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
