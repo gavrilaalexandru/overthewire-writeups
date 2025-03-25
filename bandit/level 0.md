@@ -6,3 +6,5 @@ It will teach you the basics needed to play other wargames.
 > **PS:** Before starting and SSH-ing into their servers, take a look at:  
 > - [WeChall Scoreboard](https://overthewire.org/information/wechall.html)  
 > - [WeChall.net](https://wechall.net/)  
+
+The goal of this level is to log into the game using SSH ([secure shell](https://en.wikipedia.org/wiki/Secure_Shell))
