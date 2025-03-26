@@ -34,3 +34,4 @@ Once you press Enter, you will be prompted to enter the password (bandit0).
 <img width="558" alt="Screenshot 2025-03-26 at 00 13 47" src="https://github.com/user-attachments/assets/9633ac10-d0ec-4a84-88d6-fe06692e1923" />
 
 All done for now, let's jump into the next level!
+[Next level](https://github.com/gavrilaalexandru/overthewire-writeups/blob/main/bandit/level%200%20-%3E%20level%201.md)
