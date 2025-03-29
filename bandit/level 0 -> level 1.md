@@ -23,4 +23,4 @@ And like that we made our first steps into the bandit game!
 
 **New Password:** `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 
-(Next level)[https://github.com/gavrilaalexandru/overthewire-writeups/blob/main/bandit/level%201%20-%3E%20level%202.md]
+(Next level)((https://github.com/gavrilaalexandru/overthewire-writeups/blob/main/bandit/level%201%20-%3E%20level%202.md)
