@@ -18,3 +18,5 @@ One way to solve this is to wrap the whole name of the file with `" "` but the w
 (Or you could just type `cat s` and press tab, the autocomplete will do its thing.)
 
 **New Password:** `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`
+
+[Next level](https://github.com/gavrilaalexandru/overthewire-writeups/blob/main/bandit/level%203%20-%3E%20level%204.md)
