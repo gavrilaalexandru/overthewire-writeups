@@ -14,3 +14,5 @@ Using the command *cat -* does not return anything, so instead of using only the
 <img width="562" alt="Screenshot 2025-03-29 at 13 59 31" src="https://github.com/user-attachments/assets/b550a4bd-87e7-473b-83af-8180d28e5e1f" />
 
 **New Password:** `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
+
+[Next Level](https://github.com/gavrilaalexandru/overthewire-writeups/blob/main/bandit/level%202%20-%3E%20level%203.md)
