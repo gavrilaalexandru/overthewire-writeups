@@ -15,6 +15,6 @@ One way to solve this is to wrap the whole name of the file with `" "` but the w
 
 <img width="567" alt="Screenshot 2025-03-29 at 14 11 26" src="https://github.com/user-attachments/assets/9a1a5bc0-33bb-4c16-9823-98fdce66ce7e" />
 
-(Or you could just type `s` and press tab, the autocomplete will do its thing)
+(Or you could just type `s` and press tab, the autocomplete will do its thing.)
 
 **New Password:** `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`
