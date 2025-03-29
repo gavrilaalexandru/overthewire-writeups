@@ -13,5 +13,8 @@ Only one text file, let's try and cat the contents:
 
 That was not very helpful, just as it doesn't help us to try every string that looks like a password.
 
-Instead let's print the contents of `data.txt` and let's use the `|` symbol ([pipe](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)) and pipe the output into `grep` ([grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/))
-**New Password:** `morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj`
+Instead let's print the contents of `data.txt` and let's use the `|` symbol ([pipe](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)) and pipe the output into `grep` ([grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)) and search for the word `millionth`:
+
+<img width="491" alt="Screenshot 2025-03-29 at 15 07 58" src="https://github.com/user-attachments/assets/d340f4f8-f2ee-45ef-b1ac-27abe49d6978" />
+
+**New Password:** `dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc`
