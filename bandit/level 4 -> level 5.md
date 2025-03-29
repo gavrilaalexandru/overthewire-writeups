@@ -21,4 +21,4 @@ So the final command is to use `cat` and print the contents of the file that con
 
 <img width="566" alt="Screenshot 2025-03-29 at 14 32 03" src="https://github.com/user-attachments/assets/7c992e20-5632-4a0e-8ec0-176cc7a9527c" />
 
-**New Password:** `2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ`
+**New Password:** `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
