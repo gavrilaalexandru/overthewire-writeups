@@ -14,7 +14,7 @@ I feel like after the last level this is self explanatory, if you don't know wha
 
 The user and group options are self explanatory, so let's talk about `2>/dev/null`
 
-`2` is file descriptor [(fd)](https://en.wikipedia.org/wiki/File_descriptor)) for `stderr (Standard Error`. But why does that matter? Because we search the whole server for a file owned by another user, and we may find some files we don't have access to, and we will get a `permission denied` error. So basically we are redirecting all those errors to `/dev/null` which is like a black hole. Just like that, we are keeping our terminal clean and only with the information we need.
+`2` is file descriptor ([fd](https://en.wikipedia.org/wiki/File_descriptor)) for `stderr (Standard Error`. But why does that matter? Because we search the whole server for a file owned by another user, and we may find some files we don't have access to, and we will get a `permission denied` error. So basically we are redirecting all those errors to `/dev/null` which is like a black hole. Just like that, we are keeping our terminal clean and only with the information we need.
 
 Let's get that password:
 
