@@ -8,6 +8,7 @@ To traverse the directories, the “change directory” command exists: cd <path
 The path for the command can be an absolute path (path from root directory /) or a relative path (path from the current working directory).
 
 First let's use ls:
+
 <img width="560" alt="Screenshot 2025-03-29 at 14 16 19" src="https://github.com/user-attachments/assets/edb48c68-9d3f-4a96-8c97-782ba83b7fa5" />
 
 If we are not sure if `inhere` is a file or a directory we can use `ls -l` which displays file details (permissions, owner, group, size, modification date):
