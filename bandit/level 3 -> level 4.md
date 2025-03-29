@@ -23,7 +23,7 @@ So the directory is empty, but we can check for one more thing, hidden files. Le
 
 <img width="489" alt="Screenshot 2025-03-29 at 14 20 06" src="https://github.com/user-attachments/assets/50a08b20-fbc2-41a3-952c-9b83a67134bd" />
 
-Interesing file there, let's use `cat`:
+Interesing file down there, let's use `cat`:
 
 <img width="421" alt="Screenshot 2025-03-29 at 14 20 40" src="https://github.com/user-attachments/assets/04acb52f-7424-46dd-a050-9ce882931b9b" />
 
