@@ -94,6 +94,14 @@ Analyzing the file wee see that we have another archive:
 
 <img width="595" alt="Screenshot 2025-04-01 at 09 50 04" src="https://github.com/user-attachments/assets/ec581314-f014-4e67-8276-df394973e820" />
 
+And let's analyze again the new file:
+<img width="617" alt="Screenshot 2025-04-01 at 09 51 26" src="https://github.com/user-attachments/assets/22b34f83-4623-4652-b28d-f817127c6b9a" />
 
-**New Password:** `7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4`
+And it's a gzip again and hopefully the last one:
+
+<img width="487" alt="Screenshot 2025-04-01 at 09 52 27" src="https://github.com/user-attachments/assets/ce10d710-3539-47a7-8a07-a0be4a21eea6" />
+
+Our journey is over!
+
+**New Password:** `FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn`
 
