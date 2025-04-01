@@ -11,4 +11,4 @@ Now let's use netcat ([nc](https://en.wikipedia.org/wiki/Netcat)) and connect to
 
 <img width="393" alt="Screenshot 2025-04-01 at 10 04 43" src="https://github.com/user-attachments/assets/73748731-8d68-4b3d-9ae6-068155e4650d" />
 
-**New password** 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+**New Password:** `8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo`
