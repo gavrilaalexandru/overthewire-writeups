@@ -29,10 +29,20 @@ And let's rename our file:
 
 <img width="571" alt="Screenshot 2025-04-01 at 09 26 40" src="https://github.com/user-attachments/assets/9b52f249-48ca-4080-b5c2-f80ad6e8eec8" />
 
-From the objective we know that the file has been repeatedly compressed.
+From the objective we know that the file has been repeatedly compressed. However, we want to operate on the actual data. Therefore, we revert the hexdump and get the actual data.
 
-So let's start decompressing our lovely file. To figure out what decompression we need to use, we will analyze the first bytes in the hexdump and search for the file type in [here](https://en.wikipedia.org/wiki/List_of_file_signatures)
+<img width="557" alt="Screenshot 2025-04-01 at 09 35 19" src="https://github.com/user-attachments/assets/c4b55c1c-9070-4cef-b78f-6dbefd937a92" />
 
+
+So let's start decompressing our lovely file. To figure out what decompression we need to use, we will analyze the first bytes in the hexdump and search for the file type in [here](https://en.wikipedia.org/wiki/List_of_file_signatures).
+
+<img width="510" alt="Screenshot 2025-04-01 at 09 30 21" src="https://github.com/user-attachments/assets/25f98647-bb6e-4402-a7d6-94d87c9d2f1a" />
+
+We see that the first bytes are `1f 8b`. Let's search for it on the wiki page:
+
+<img width="953" alt="Screenshot 2025-04-01 at 09 31 40" src="https://github.com/user-attachments/assets/286243cc-abf2-4d54-8c6d-40af8d45538e" />
+
+And we found it! Let's rename our file and decompress it with `gzip -d`:
 
 
 **New Password:** `7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4`
