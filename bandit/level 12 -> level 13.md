@@ -8,6 +8,7 @@ For this level it may be useful to create a directory under /tmp in which you ca
 Use mkdir with a hard to guess directory name. Or better, use the command “mktemp -d”. Then copy the datafile using cp, and rename it using mv (read the manpages!)
 
 Let's dig in:
+
 <img width="532" alt="Screenshot 2025-04-01 at 09 18 19" src="https://github.com/user-attachments/assets/d7f02adc-eaa9-4afe-a399-155d850581cc" />
 
 And this already looks like a hexdump. We will use [xxd](https://man.archlinux.org/man/xxd.1.en) for analyzing.
