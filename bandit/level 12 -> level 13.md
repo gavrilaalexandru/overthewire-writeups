@@ -88,8 +88,11 @@ And again bzip2:
 
 <img width="501" alt="Screenshot 2025-04-01 at 09 48 45" src="https://github.com/user-attachments/assets/b49a00ef-3ca6-42ee-aa65-911328bac8f0" />
 
+Analyzing the file wee see that we have another archive:
+
 <img width="533" alt="Screenshot 2025-04-01 at 09 49 17" src="https://github.com/user-attachments/assets/fa5d3271-f53e-4725-baef-32ff7e2e1687" />
 
+<img width="595" alt="Screenshot 2025-04-01 at 09 50 04" src="https://github.com/user-attachments/assets/ec581314-f014-4e67-8276-df394973e820" />
 
 
 **New Password:** `7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4`
