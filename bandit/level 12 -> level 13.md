@@ -95,6 +95,7 @@ Analyzing the file wee see that we have another archive:
 <img width="595" alt="Screenshot 2025-04-01 at 09 50 04" src="https://github.com/user-attachments/assets/ec581314-f014-4e67-8276-df394973e820" />
 
 And let's analyze again the new file:
+
 <img width="617" alt="Screenshot 2025-04-01 at 09 51 26" src="https://github.com/user-attachments/assets/22b34f83-4623-4652-b28d-f817127c6b9a" />
 
 And it's a gzip again and hopefully the last one:
